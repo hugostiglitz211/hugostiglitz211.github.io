@@ -1,5 +1,3 @@
-.git-merge-box {
-  padding: $spacer-6;
-  background-color: #222;
-  border-radius: 3px;
+body {
+  background-color: lightblue;
 }
